@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/FarmTown.unity
+  isLoaded: 1
+  isActive: 1
